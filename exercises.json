@@ -3,13 +3,13 @@
     "Muscle Group": "Chest & Triceps",
     "Exercises": [
       {
-        "Exercise": "Barbell Bench Press",
+        "Exercise Name": "Barbell Bench Press",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/barbell-bench-press-medium-grip"
       },
       {
-        "Exercise": "Incline Dumbbell Press",
+        "Exercise Name": "Incline Dumbbell Press",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
@@ -21,21 +21,21 @@
         "Exercise Link": "https://www.bodybuilding.com/exercises/chest-flyes"
       },
       {
-        "Exercise": "Cable Crossover",
+        "Exercise Name": "Cable Crossover",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/cable-crossover"
       },
       {
         "Muscle Group": "Triceps",
-        "Exercise": "Tricep Pushdown",
+        "Exercise Name": "Tricep Pushdown",
         "Reps": "10-12",
         "Sets": "3",
         "Link": "https://www.bodybuilding.com/exercises/triceps-pushdown"
       },
       {
         "Muscle Group": "Triceps",
-        "Exercise": "Dumbbell Overhead Extension",
+        "Exercise Name": "Dumbbell Overhead Extension",
         "Reps": "10-12",
         "Sets": "3",
         "Link": "https://www.bodybuilding.com/exercises/seated-dumbbell-press"
@@ -46,19 +46,19 @@
     "Muscle Group": "Back",
     "Exercises": [
       {
-        "Exercise": "Deadlift",
+        "Exercise Name": "Deadlift",
         "Reps": "8-10",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/deadlift"
       },
       {
-        "Exercise": "Bent Over Barbell Row",
+        "Exercise Name": "Bent Over Barbell Row",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/bent-over-barbell-row"
       },
       {
-        "Exercise": "Lat Pulldown",
+        "Exercise Name": "Lat Pulldown",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/lat-pulldown"
@@ -75,19 +75,19 @@
     "Muscle Group": "Shoulders",
     "Exercises": [
       {
-        "Exercise": "Seated Dumbbell Press",
+        "Exercise Name": "Seated Dumbbell Press",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/seated-dumbbell-press"
       },
       {
-        "Exercise": "Lateral Raise",
+        "Exercise Name": "Lateral Raise",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/lateral-raise"
       },
       {
-        "Exercise": "Front Raise",
+        "Exercise Name": "Front Raise",
         "Reps": "10-12",
         "Sets": "3-4",
         "Link": "https://www.bodybuilding.com/exercises/front-dumbbell-raise"
