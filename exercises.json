@@ -1,0 +1,202 @@
+{
+  "Monday": {
+    "Muscle Group": "Chest & Triceps",
+    "Exercises": [
+      {
+        "Exercise": "Barbell Bench Press",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/barbell-bench-press-medium-grip"
+      },
+      {
+        "Exercise": "Incline Dumbbell Press",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+      },
+      {
+        "Exercise Name": "Chest Fly",
+        "Reps": "12-15",
+        "Sets": "3",
+        "Exercise Link": "https://www.bodybuilding.com/exercises/chest-flyes"
+      },
+      {
+        "Exercise": "Cable Crossover",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/cable-crossover"
+      },
+      {
+        "Muscle Group": "Triceps",
+        "Exercise": "Tricep Pushdown",
+        "Reps": "10-12",
+        "Sets": "3",
+        "Link": "https://www.bodybuilding.com/exercises/triceps-pushdown"
+      },
+      {
+        "Muscle Group": "Triceps",
+        "Exercise": "Dumbbell Overhead Extension",
+        "Reps": "10-12",
+        "Sets": "3",
+        "Link": "https://www.bodybuilding.com/exercises/seated-dumbbell-press"
+      }
+    ]
+  },
+  "Tuesday": {
+    "Muscle Group": "Back",
+    "Exercises": [
+      {
+        "Exercise": "Deadlift",
+        "Reps": "8-10",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/deadlift"
+      },
+      {
+        "Exercise": "Bent Over Barbell Row",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/bent-over-barbell-row"
+      },
+      {
+        "Exercise": "Lat Pulldown",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/lat-pulldown"
+      },
+      {
+        "Exercise Name": "Seated Cable Row",
+        "Reps": "10-12",
+        "Sets": "3",
+        "Exercise Link": "https://www.bodybuilding.com/exercises/seated-cable-rows"
+      }
+    ]
+  },
+  "Wednesday": {
+    "Muscle Group": "Shoulders",
+    "Exercises": [
+      {
+        "Exercise": "Seated Dumbbell Press",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/seated-dumbbell-press"
+      },
+      {
+        "Exercise": "Lateral Raise",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/lateral-raise"
+      },
+      {
+        "Exercise": "Front Raise",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/front-dumbbell-raise"
+      },
+      {
+        "Exercise Name": "Military Press",
+        "Reps": "10-12",
+        "Sets": "4",
+        "Exercise Link": "https://www.bodybuilding.com/exercises/military-press"
+      },
+      {
+        "Exercise Name": "Dumbbell Lateral Raise",
+        "Reps": "12-15",
+        "Sets": "3",
+        "Exercise Link": "https://www.bodybuilding.com/exercises/seated-side-lateral-raise"
+      },
+      {
+        "Exercise Name": "Upright Row",
+        "Reps": "10-12",
+        "Sets": "3",
+        "Exercise Link": "https://www.bodybuilding.com/exercises/upright-barbell-row"
+      }
+    ]
+  },
+  "Thursday": {
+    "Muscle Group": "Arms",
+    "Exercises": [
+      {
+        "Exercise Name": "Barbell Curl",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/barbell-curl"
+      },
+      {
+        "Exercise Name": "Triceps Pushdown",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/triceps-pushdown"
+      },
+      {
+        "Exercise Name": "Dumbbell Hammer Curl",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/hammer-curls"
+      },
+      {
+        "Exercise Name": "Overhead Triceps Extension",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/overhead-triceps-extension"
+      }
+    ]
+  },
+  "Friday": {
+    "Muscle Group": "Core",
+    "Exercises": [
+      {
+        "Exercise Name": "Plank",
+        "Reps": "30-60 seconds",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/plank"
+      },
+      {
+        "Exercise Name": "Russian Twist",
+        "Reps": "10-15",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/russian-twist"
+      },
+      {
+        "Exercise Name": "Hanging Leg Raise",
+        "Reps": "10-15",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/hanging-leg-raise"
+      },
+      {
+        "Exercise Name": "Crunch",
+        "Reps": "10-15",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/crunches"
+      }
+    ]
+  },
+  "Saturday": {
+    "Muscle Group": "Legs",
+    "Exercises": [
+      {
+        "Exercise Name": "Squats",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/barbell-full-squat"
+      },
+      {
+        "Exercise Name": "Lunges",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/dumbbell-lunge"
+      },
+      {
+        "Exercise Name": "Deadlifts",
+        "Reps": "10-12",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/barbell-deadlift"
+      },
+      {
+        "Exercise Name": "Calf Raises",
+        "Reps": "10-15",
+        "Sets": "3-4",
+        "Link": "https://www.bodybuilding.com/exercises/seated-calf-raise"
+      }
+    ]
+  }
+}
